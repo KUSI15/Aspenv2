@@ -1,0 +1,41 @@
+body {
+    font-size: 15pt;
+    background-color: tomato;
+}
+
+.halu {
+  border-top: 3px;
+  border-style: solid;
+  font-size: 10pt;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+h1 {
+  margin-left: 120px;
+  
+}
+
+.class {
+  font-size: 10pt;
+  margin-left: 130px;
+}
+
+.boi {
+  font-size: 10pt;
+  Border-style: solid;
+}
+
+pre {
+  margin-right: 100px;
+}
+
+input {
+  margin-top: 200px;
+  margin-left: 120px;
+  border-radius: 5px;
+  background-color: lightpink;
+  border-color: lightpink;
+  height: 50px;
+  width: 150px;
+}
